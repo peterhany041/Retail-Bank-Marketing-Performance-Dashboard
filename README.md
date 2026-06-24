@@ -150,8 +150,8 @@ Data Analyst
 
 ### Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/peter-hany1050?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/peter-hany1050/)
-- GitHub: https://github.com/peterhany041
+- LinkedIn: (https://www.linkedin.com/in/peter-hany1050/)
+- GitHub: (https://github.com/peterhany041)
 
 ---
 ⭐ If you found this project useful, feel free to star the repository.
