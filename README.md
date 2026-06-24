@@ -150,7 +150,7 @@ Data Analyst
 
 ### Connect With Me
 
-- LinkedIn: Add Your LinkedIn Profile Here
+- LinkedIn: https://www.linkedin.com/in/peter-hany1050/
 - GitHub: https://github.com/peterhany041
 
 ---
